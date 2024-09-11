@@ -16,7 +16,7 @@ def update_resp():
 
 update_resp()
 fnt = ImageFont.truetype("Pillow/Tests/fonts/FreeMono.ttf", 36)
-TOKEN = "5807688740:AAETKlPGGY4TB1b2YI7YeZs7jvea5IDIts4"
+TOKEN = ""
 
 bot = telebot.TeleBot(TOKEN)
 
